@@ -41,7 +41,7 @@ What a Waste is a global project to aggregate data on solid waste management fro
 # Only walk through. No live coding.
 # This code is copied from your homework
 
-global_waste_data <- read_csv(here::here("wk-02/data/country_level_data_0.csv"))
+global_waste_data <- read_csv(here::here("data/country_level_data_0.csv"))
 
 ```
 

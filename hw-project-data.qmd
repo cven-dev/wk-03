@@ -1,5 +1,5 @@
 ---
-title: "Week 02 - Homework Assignment"
+title: "Week 03 - Homework Assignment"
 format: html
 self-contained: true
 editor: visual
@@ -11,34 +11,20 @@ Working with data is most effective when it is data that you are interested in y
 
 Some examples of popular and extensive Open Data repositories are:
 
--   World Bank Open Data: https://data.worldbank.org/
--   The Humanitarian Data Exchange: https://data.humdata.org/
--   Harvard Dataverse: https://dataverse.harvard.edu/
--   Figshare: https://figshare.com/
--   Zenodo: https://zenodo.org/
+-   openwashdata R data packages: <https://openwashdata.org/pages/gallery/data/>
+-   World Bank Open Data: <https://data.worldbank.org/>
+-   The Humanitarian Data Exchange: <https://data.humdata.org/>
+-   Harvard Dataverse: <https://dataverse.harvard.edu/>
 
 # Task 1: Identify data
 
 1.  Identify data that you are interested in. The requirements are:
 
--   small (maximum 8 variables/columns and 10000 rows/observations)
+-   small (around 10 to 20 variables/columns and 10'000 to 100'000 rows/observations)
 -   in tabular format (ideally CSV file format, but XLSX is also okay)
 -   relevant to the wider topics of Global Engineering, Development, etc.
 
-2.  Describe why you have chosen this data
+2.  Describe why you have chosen this data. We will create a repository for your data in another week.
 
 <!--# Delete this comment and add your answer here  -->
 
-# Task 2: Upload data
-
-Upload your data to the "wk-03-USERNAME" project on RStudio Cloud (where USERNAME is your GitHub username).
-
-\*\*See screenshot below or follow these steps\*\*
-
-1.  Open the 'Files' tab in the bottom right window
-2.  Click on 'Upload' (the file icon with the yellow arrow) in the menu bar above the file manager
-3.  Under 'Target directory', click on 'Browse...' and navigate to the 'data' folder
-4.  Under 'File to upload', click on 'Browse...' and navigate to the file that contains the data you have identified
-5.  Click on 'OK'
-
-![](img/upload-data.png)
