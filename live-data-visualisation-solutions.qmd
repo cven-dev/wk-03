@@ -1,11 +1,7 @@
 ---
-title: "Application Exercise 11 - Data Visualisation"
-author: "Lars Schöbitz"
-date: "2022-07-12"
-format:
-  html:
-    toc: true
-    self-contained: true
+title: "Live Coding - Data Visualisation"
+format: html
+self-contained: true
 editor: visual
 editor_options: 
   chunk_output_type: console

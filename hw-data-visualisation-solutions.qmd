@@ -1,13 +1,11 @@
 ---
-title: "Programming Exercise - Data Visualisation"
-author: "Lars Schöbitz"
-format:
-  html:
-    toc: true
-editor: visual
+title: "Homework Exercise - Data Visualisation"
+format: html
+self-contained: true
 execute:
   echo: true
   warning: false
+editor: visual
 editor_options: 
   chunk_output_type: console
 ---
