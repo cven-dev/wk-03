@@ -2,6 +2,7 @@
 title: "Learning Reflection"
 subtitle: "Week 3"
 format: html
+self-contained: true
 editor: visual
 ---
 

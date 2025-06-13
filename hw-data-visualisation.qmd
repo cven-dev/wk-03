@@ -1,6 +1,7 @@
 ---
 title: "Homework Exercise - Data Visualisation"
 format: html
+self-contained: true
 execute:
   echo: true
   warning: false
